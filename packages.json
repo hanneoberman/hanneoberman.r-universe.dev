@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ggmice",
+    "url": "https://github.com/amices/ggmice"
+  },
+  {
+    "package": "mice",
+    "url": "https://github.com/amices/mice"
+  },
+  {
+    "package": "roundR",
+    "url": "https://github.com/hanneoberman/roundR"
+  }
+]
